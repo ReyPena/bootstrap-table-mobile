@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-table-mobile",
+  "version": "1.0.0",
+  "description": "Bootstrap table mobile fix",
+  "main": "bootstrap-table-mobile.js",
+  "repository": "https://github.com/ReyPena/bootstrap-table-mobile.git",
+  "author": "ptitgraig",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bootstrap-table": "1.11.1"
+  }
+}
